@@ -1,2 +1,2 @@
 # Deep_Learning
-Guide on Deep Learning with Tensorflow
+Deep Learning with Tensorflow
